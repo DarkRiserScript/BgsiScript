@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/VVi860BB/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkRiserScript/BgsiScript/main/Bgsi.lua"))()
